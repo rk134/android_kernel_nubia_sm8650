@@ -4,3 +4,4 @@ obj-$(CONFIG_SOC_FAN) += fan/
 obj-$(CONFIG_AW9620X_SAR) += aw96205/
 obj-y += touchscreen_v2/goodix_berlin_driver_9916r/
 obj-y  += nubia_hw_version/
+obj-y  += nubia_gpio_keys/
